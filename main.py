@@ -1,6 +1,6 @@
 ## CONFIG ##
 
-UNBLANKABLE_FILEPATH = "C:\\Users\\user\\Documents\\Code\\Quotefill\\unblankables.txt"
+UNBLANKABLE_FILEPATH = '''Add filepath here'''
 RANDOMISE_QUOTE_ORDER = False
 IGNORE_CAPITALIZATION = True
 REVEAL_ON_GUESS = 3
